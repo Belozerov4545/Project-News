@@ -1,0 +1,11 @@
+body {
+    /* background-image: url('https://free4kwallpapers.com/uploads/wallpaper/blue-news-background-1920x1080-wallpaper.jpg'); */
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.card:hover {
+    transition: all .4s ease;
+    transform: scale(1.1);
+    cursor: pointer;
+}
